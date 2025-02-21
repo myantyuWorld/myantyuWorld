@@ -1,1 +1,1 @@
-[![roadmap.sh](https://roadmap.sh/card/tall/66fbf92ff79b5a200ee148de?variant=dark)](https://roadmap.sh)
+[![My Skills](https://skillicons.dev/icons?i=js,html,ts,vue,tailwind,cs,dotnet,figma,github,go,java,py,)](https://skillicons.dev)
